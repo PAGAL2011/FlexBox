@@ -1,0 +1,46 @@
+.ota{
+    
+    font-size: 30px;
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    margin: 15px;
+    
+
+    }
+    body{
+        text-align: center;
+    }
+    .bola{
+        background-color: red;
+        width: 425px;
+        height: 325px ;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .ota2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 100px;
+
+    }
+    .section{
+     margin: 30px 0; 
+     font-size: 30px;
+
+    }
+    .ota3{
+        display: flex;
+        gap: 60px;
+        font-size: 30px;
+        justify-content: center;
+        align-items: center;
+        margin: 145px;
+
+
+    }
